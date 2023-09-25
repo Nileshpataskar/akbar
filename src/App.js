@@ -1,11 +1,11 @@
 import React from "react";
-import "./App.css"
+import "./App.css";
 const App = () => {
   return (
     <div>
       <h1>Akbar chi website</h1>
       contact:8488488484
-
+      <h2>Nilesh is boy</h2>
     </div>
   );
 };
